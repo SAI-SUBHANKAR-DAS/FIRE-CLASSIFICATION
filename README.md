@@ -9,3 +9,4 @@ This project aims to classify fire and non-fire images using deep learning techn
 - OpenCV
 - Matplotlib / Seaborn
 - Jupyter Notebook
+Link for the Model: https://drive.google.com/file/d/1TmM_R76YAEPHfguqC15DxsCSMSycBSJB/view?usp=drive_link
